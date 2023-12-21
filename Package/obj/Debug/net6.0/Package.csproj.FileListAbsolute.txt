@@ -1,0 +1,14 @@
+C:\Users\Guzel\Documents\INF HOMEWORK\tcp-server\Package\bin\Debug\net6.0\Package.exe
+C:\Users\Guzel\Documents\INF HOMEWORK\tcp-server\Package\bin\Debug\net6.0\Package.deps.json
+C:\Users\Guzel\Documents\INF HOMEWORK\tcp-server\Package\bin\Debug\net6.0\Package.runtimeconfig.json
+C:\Users\Guzel\Documents\INF HOMEWORK\tcp-server\Package\bin\Debug\net6.0\Package.dll
+C:\Users\Guzel\Documents\INF HOMEWORK\tcp-server\Package\bin\Debug\net6.0\Package.pdb
+C:\Users\Guzel\Documents\INF HOMEWORK\tcp-server\Package\obj\Debug\net6.0\Package.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guzel\Documents\INF HOMEWORK\tcp-server\Package\obj\Debug\net6.0\Package.AssemblyInfoInputs.cache
+C:\Users\Guzel\Documents\INF HOMEWORK\tcp-server\Package\obj\Debug\net6.0\Package.AssemblyInfo.cs
+C:\Users\Guzel\Documents\INF HOMEWORK\tcp-server\Package\obj\Debug\net6.0\Package.csproj.CoreCompileInputs.cache
+C:\Users\Guzel\Documents\INF HOMEWORK\tcp-server\Package\obj\Debug\net6.0\Package.dll
+C:\Users\Guzel\Documents\INF HOMEWORK\tcp-server\Package\obj\Debug\net6.0\refint\Package.dll
+C:\Users\Guzel\Documents\INF HOMEWORK\tcp-server\Package\obj\Debug\net6.0\Package.pdb
+C:\Users\Guzel\Documents\INF HOMEWORK\tcp-server\Package\obj\Debug\net6.0\Package.genruntimeconfig.cache
+C:\Users\Guzel\Documents\INF HOMEWORK\tcp-server\Package\obj\Debug\net6.0\ref\Package.dll
